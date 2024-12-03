@@ -6,15 +6,15 @@ class arithmatic{
         int a=s.nextInt();
         int b=s.nextInt();
         c=a+b;
-        System.out.println(c);
+        System.out.println("c="+c);
         c=a-b;
-        System.out.println(c);
+        System.out.println("c="+c);
         c=a*b;
-        System.out.println(c);
+        System.out.println("c="+c);
         c=a/b;
-        System.out.println(c);
+        System.out.println("c="+c);
         c=a%b;
-        System.out.println(c);
+        System.out.println("c="+c);
     }
 
 
